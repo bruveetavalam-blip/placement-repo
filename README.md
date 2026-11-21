@@ -1,1 +1,1 @@
-# SmartSpend-Java-Expense-Tracker
+# SmartSpend Java Expense Tracker
